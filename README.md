@@ -3,6 +3,6 @@
 #### ユーザー新規登録画面
 - [signup](https://vite-project-657aa.web.app/signup)
 #### ユーザーログイン画面
-- [signup](https://vite-project-657aa.web.app/login)
+- [login](https://vite-project-657aa.web.app/login)
 #### チャット画面(ログインした状態でないとログイン画面にリダイレクトされます)
-- [signup](https://vite-project-657aa.web.app/)
+- [chat](https://vite-project-657aa.web.app/)
